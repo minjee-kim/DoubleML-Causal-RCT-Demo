@@ -32,6 +32,12 @@ This repository uses the DoubleML package ([https://docs.doubleml.org/stable/ind
 
 ---
 
+## Repo Layout
+
+
+
+---
+
 ## References
 
 - Chernozhukov, V., Chetverikov, D., Demirer, M., Duflo, E., Hansen, C., Newey, W., & Robins, J. (2018).  
@@ -52,7 +58,3 @@ This repository uses the DoubleML package ([https://docs.doubleml.org/stable/ind
 - **DoubleML Documentation** — Official package reference and tutorials:  
   [https://docs.doubleml.org/stable/index.html](https://docs.doubleml.org/stable/index.html)
 
-
----
-
-## Repo Layout
