@@ -30,19 +30,26 @@ These methods build on the original formulation by Chernozhukov et al. (2018), *
 
 ---
 
-## Background & Related Work
+## References
 
-- **Double/debiased machine learning**  
-  Chernozhukov, V., Chetverikov, D., Demirer, M., Duflo, E., Hansen, C., Newey, W., & Robins, J. (2018). *Double/debiased machine learning for treatment and structural parameters*. *The Econometrics Journal*, 21(1), C1–C68.  
-  [DOI link](https://doi.org/10.1111/ectj.12097)
-  
-- **Causal inference in randomized clinical trials**  
-  Zheng, C., Dai, R., Gale, R. P., & Zhang, M. J. (2020). *Causal inference in randomized clinical trials*. *Bone Marrow Transplantation*, 55, 4–8.  
+- Chernozhukov, V., Chetverikov, D., Demirer, M., Duflo, E., Hansen, C., Newey, W., & Robins, J. (2018).  
+  *Double/debiased machine learning for treatment and structural parameters*.  
+  *The Econometrics Journal*, 21(1), C1–C68.  
+  [DOI: 10.1111/ectj.12097](https://doi.org/10.1111/ectj.12097)
+
+- Zheng, C., Dai, R., Gale, R. P., & Zhang, M. J. (2020).  
+  *Causal inference in randomized clinical trials*.  
+  *Bone Marrow Transplantation*, 55, 4–8.  
   [Nature link](https://doi.org/10.1038/s41409-020-0793-6)
 
-- **Emulating randomized trials with heterogeneous treatment effect estimation**  
-  Ling, Y., Upadhyaya, P., Chen, L., Jiang, X., & Kim, Y. (2022). *Emulate randomized clinical trials using heterogeneous treatment effect estimation for personalized treatments: Methodology review and benchmark*. *Journal of Biomedical Informatics*.  
+- Ling, Y., Upadhyaya, P., Chen, L., Jiang, X., & Kim, Y. (2022).  
+  *Emulate randomized clinical trials using heterogeneous treatment effect estimation for personalized treatments: Methodology review and benchmark*.  
+  *Journal of Biomedical Informatics*.  
   [PubMed link](https://pubmed.ncbi.nlm.nih.gov/36455806/) (PMCID: PMC9845190)
+
+- **DoubleML Documentation** — Official package reference and tutorials:  
+  [https://docs.doubleml.org/stable/index.html](https://docs.doubleml.org/stable/index.html)
+
 
 ---
 
