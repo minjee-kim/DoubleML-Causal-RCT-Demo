@@ -19,7 +19,9 @@ Traditional regression often struggles with confounding and high-dimensional cov
 **Double Machine Learning** uses orthogonal scores and cross-fitting to debias nuisance estimation. "Debiased" causal effect estimation is possible even when machine learning models are used for adjustment.
 
 These methods build on the original formulation by Chernozhukov et al. (2018), *Double/debiased machine learning for treatment and structural parameters*, *The Econometrics Journal* [doi:10.1111/ectj.12097](https://doi.org/10.1111/ectj.12097).
+
 This repository uses the DoubleML package, an open-source implementation of the Double/Debiased Machine Learning framework originally proposed by Chernozhukov et al. (2018).
+
 ---
 
 ## DoubleML
